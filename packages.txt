@@ -1,6 +1,1 @@
 libxrender1
-libfontconfig1
-libxext6
-libsm6
-libx11-6
-libglib2.0-0
