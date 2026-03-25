@@ -1,7 +1,7 @@
 streamlit
-rdkit
 pandas
 numpy
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
+rdkit
